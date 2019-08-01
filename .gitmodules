@@ -1,3 +1,6 @@
 [submodule "mysubmarine"]
 	path = mysubmarine
 	url = ./mysubmarine/
+[submodule "me/git_kurs_KA_31072019_gitflow"]
+	path = me/git_kurs_KA_31072019_gitflow
+	url = https://github.com/ppedvAG/git_kurs_KA_31072019_gitflow/
